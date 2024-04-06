@@ -359,11 +359,12 @@ template {
     
     body {
       font-family: sans-serif;
-      padding: 2rem;
+      padding: 1rem;
     }
     
     div {
       padding: 1rem;
+      background-color: white;
     }
 
     img {
@@ -371,10 +372,18 @@ template {
       margin: 0 auto;
     }
 
-    img::before {
-      content: "“";
+    header { 
+      padding-bottom: 2rem;
     }
 
-    img::after {
-      content: "”";
+    h1 {
+      font-size: 1rem;
+      font-weight: normal;
     }
+
+    /* is there an elegant way to make this stick to the bottom? */
+    footer {
+      padding-top: 2rem;
+    }
+
+

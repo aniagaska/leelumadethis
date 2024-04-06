@@ -353,7 +353,7 @@ template {
 /* Start
      ========================================================================== */
 
-     html {
+    html {
       font-size: 18px;
     }
     
@@ -362,11 +362,11 @@ template {
       padding: 2rem;
     }
     
-    main {
-      margin: 0 auto;
-    }
-    
     div {
       padding: 1rem;
     }
-    
+
+    img {
+      max-width: 100%;
+      margin: 0 auto;
+    }

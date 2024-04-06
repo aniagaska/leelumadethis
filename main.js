@@ -1,5 +1,3 @@
-// this is fine i'm not even scared
-//alert("hello")
 
 // Chris made the random image example https://codepen.io/bronzehedwick/pen/dyLdJmG 
 // Load random image from images folder on load

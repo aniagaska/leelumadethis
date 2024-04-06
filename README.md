@@ -1,8 +1,3 @@
-# leelumadethis
-leelumadethis.lol
-
-## Aly is a great writer
-A fan site
 # Aly is a great writer 
 Aly is a great writer is a website comissioned by her beautiful wife, Emily, who lovingly went through reviews of her books and took screen shots of the good ones. This way, Aly gets the encouragement she needs without having to witness the terrors of the internet. 
 

@@ -352,3 +352,21 @@ template {
 
 /* Start
      ========================================================================== */
+
+     html {
+      font-size: 18px;
+    }
+    
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+    }
+    
+    main {
+      margin: 0 auto;
+    }
+    
+    div {
+      padding: 1rem;
+    }
+    

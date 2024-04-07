@@ -362,7 +362,7 @@ template {
       padding: 1rem;
       /* add a fun background! */
       background: rgb(199,120,255);
-      background: linear-gradient(90deg, rgba(199,120,255,1) 0%, rgba(134,227,255,1) 50%, rgba(83,255,244,1) 100%);
+      background: linear-gradient(315deg, rgba(199,120,255,1) 0%, rgba(134,227,255,1) 82%, rgba(83,255,244,1) 100%);
       /* Make the footer sticky */
       min-height: 100%;
       display: grid;

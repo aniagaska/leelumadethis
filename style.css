@@ -361,8 +361,8 @@ template {
       font-family: sans-serif;
       padding: 1rem;
       /* add a fun background! */
-      background: rgb(176,58,180);
-      background: linear-gradient(90deg, rgba(176,58,180,1) 0%, rgba(255,140,66,1) 50%, rgba(252,224,69,1) 100%);
+      background: rgb(199,120,255);
+      background: linear-gradient(90deg, rgba(199,120,255,1) 0%, rgba(134,227,255,1) 50%, rgba(83,255,244,1) 100%);
       /* Make the footer sticky */
       min-height: 100%;
       display: grid;

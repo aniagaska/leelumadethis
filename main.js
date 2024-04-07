@@ -26,6 +26,10 @@
         '/images/review018.jpg',
         '/images/review019.jpg',
         '/images/review020.jpg',
+        '/images/review021.jpg',
+        '/images/review022.jpg',
+        '/images/review023.jpg', 
+        '/images/review024.jpg',      
       ];
   
       const randomImagePath = imagePaths[Math.floor(Math.random() * imagePaths.length)];
